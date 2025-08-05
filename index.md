@@ -13,5 +13,5 @@ layout: default
 - <a href="instructions/ios" target="_blank" rel="noopener">iPhone / iPad</a>
 - <a href="instructions/pwa" target="_blank" rel="noopener">PWA (из браузеров)</a>
 - <a href="instructions/android" target="_blank" rel="noopener">Android (TV и мобильные устройства)</a>
-- <a href="instructions/smarttv.md" target="_blank" rel="noopener">Smart TV (не Android)</a>
+- <a href="instructions/smarttv" target="_blank" rel="noopener">Smart TV (не Android)</a>
 
