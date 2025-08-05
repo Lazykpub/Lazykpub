@@ -6,6 +6,7 @@ layout: default
 
 ### Выберите раздел, соответствующий вашему устройству:
 
+- <a href="/instructions/instruction1" target="_blank" rel="noopener">Apple TV 4/4K (новые приставки с App Store) - html</a>
 - [Apple TV 4/4K (новые приставки с App Store)](/instructions/appletv4.md)
 - [Apple TV 2/3 (старые приставки без App Store)](/lazykpub/instructions/appletv3.md)
 - [iPhone / iPad](/lazykpub/instructions/ios.md)
