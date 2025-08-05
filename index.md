@@ -6,7 +6,7 @@ layout: default
 
 ### Выберите раздел, соответствующий вашему устройству:
 
-- [Apple TV 4/4K (новые приставки с App Store)](/lazykpub/instructions/appletv4.md)
+- [Apple TV 4/4K (новые приставки с App Store)](/instructions/appletv4.md)
 - [Apple TV 2/3 (старые приставки без App Store)](/lazykpub/instructions/appletv3.md)
 - [iPhone / iPad](/lazykpub/instructions/ios.md)
 - [PWA (из браузеров)](/lazykpub/instructions/pwa.md)
