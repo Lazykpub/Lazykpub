@@ -2,9 +2,15 @@
 title: Главная
 layout: default
 ---
-# Мои инструкции
+# Инструкции по установке и настройке приложений для разных устройств 
 
-Добро пожаловать на сайт с инструкциями! Выберите раздел из меню ниже:
+*Добро пожаловать на сайт с инструкциями!*
 
-- [Инструкция 1](/instructions/instruction1)
-- [Инструкция 2](/instructions/instruction2)
+Выберите раздел, соответствующий вашему устройству:
+
+- [Apple TV 4/4K (новые приставки с App Store)](/instructions/instruction1)
+- [Apple TV 2/3 (старые приставки без App Store)](/instructions/instruction2)
+- [iPhone / iPad](/instructions/instruction2)
+- [PWA (из браузеров)](/instructions/instruction2)
+- [Android](/instructions/instruction2)
+- [Smart TV (не Android)](/instructions/instruction2)
