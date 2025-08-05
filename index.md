@@ -8,7 +8,7 @@ layout: default
 
 Выберите раздел, соответствующий вашему устройству:
 
-- [Apple TV 4/4K (новые приставки с App Store)](/instructions/instruction1)
+- [Apple TV 4/4K (новые приставки с App Store)](/instructions/appletv4)
 - [Apple TV 2/3 (старые приставки без App Store)](/instructions/instruction2)
 - [iPhone / iPad](/instructions/instruction2)
 - [PWA (из браузеров)](/instructions/instruction2)
