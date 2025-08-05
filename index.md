@@ -6,8 +6,6 @@ layout: default
 
 ## Выберите раздел, соответствующий вашему устройству:
 <br>
-<br>
-
 
 ### <a href="instructions/appletv4" target="_blank" rel="noopener">Apple TV 4/4K (новые приставки с App Store)</a>
 ### <a href="instructions/appletv3" target="_blank" rel="noopener">Apple TV 2/3 (старые приставки без App Store)</a>
