@@ -13,5 +13,3 @@ layout: default
 - <a href="/instructions/pwa.md" target="_blank" rel="noopener">PWA (из браузеров)</a>
 - <a href="/instructions/android.md" target="_blank" rel="noopener">Android (TV и мобильные устройства)</a>
 - <a href="=/instructions/smarttv.md" target="_blank" rel="noopener">Smart TV (не Android)</a>
-
-- <a href="/instructions/instruction1" target="_blank" rel="noopener">Инструкция 1</a>
