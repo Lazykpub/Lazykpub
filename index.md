@@ -14,7 +14,3 @@ layout: default
 - <a href="instructions/pwa" target="_blank" rel="noopener">PWA (из браузеров)</a>
 - <a href="instructions/android" target="_blank" rel="noopener">Android (TV и мобильные устройства)</a>
 - <a href="instructions/smarttv" target="_blank" rel="noopener">Smart TV (не Android)</a>
-
----
-- [Apple TV 4/4K (новые приставки с App Store)](/instructions/appletv4.md)
----
