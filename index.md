@@ -10,5 +10,5 @@ layout: default
 - [Apple TV 2/3 (старые приставки без App Store)](/instructions/instruction2)
 - [iPhone / iPad](/instructions/instruction2)
 - [PWA (из браузеров)](/instructions/instruction2)
-- [Android](/instructions/instruction2)
+- [Android (TV и мобильные устройства)](/instructions/instruction2)
 - [Smart TV (не Android)](/instructions/instruction2)
