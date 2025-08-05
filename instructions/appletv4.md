@@ -2,7 +2,7 @@
 title: Инструкция для приложения на Apple 4/4КTV 
 layout: default
 ---
-# Установка приложения MicroIPTV на Apple TV4/4К (новые приставки с App Store)
+# Установка приложения MicroIPTV на Apple TV4/4К (с App Store)
 
 ## Шаг 1
 Описание шага.
