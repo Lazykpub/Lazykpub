@@ -1,8 +1,8 @@
 ---
-title: Инструкция 1
+title: Инструкция для Android и Android TV
 layout: default
 ---
-# Инструкция 1: Как сделать что-то
+# FAQ по приложению для Android и Android TV
 
 ## Шаг 1
 Описание шага.
