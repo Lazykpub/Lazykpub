@@ -5,6 +5,8 @@ layout: default
 # Инструкции по установке и настройке приложений для разных устройств
 
 ## Выберите раздел, соответствующий вашему устройству:
+<br>
+<br>
 
 
 ### <a href="instructions/appletv4" target="_blank" rel="noopener">Apple TV 4/4K (новые приставки с App Store)</a>
