@@ -29,7 +29,7 @@ layout: default
 <p style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/pwa_win_5.jpeg" alt="Установка PWA приложения Windows" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 </p><br>
-При первом запуске приложения, появится код, который нужно ввести на сайте в **«ЛК/Мои устройства»** в поле **Активация устройства**. Код живёт только 5 минут, поэтому, после получения кода сразу его вводите.<br><br>
+При первом запуске приложения, появится код, который нужно ввести на сайте в **«ЛК/Мои устройства»** в поле **Активация устройства**. Код живёт только 5 минут, поэтому, после получения кода сразу его вводите.<br>
 
 **Telegram-чат пользователей поддержки приложения (топик PWA (kpapp))**  
 <a href="https://tg.kprtfm.com" target="_blank">https://tg.kprtfm.com</a> <br><br>
