@@ -1,11 +1,12 @@
 ---
-title: Инструкция 1
+title: PWA приложения
 layout: default
 ---
-# Инструкция 1: Как сделать что-то
+# PWA приложения для устройств с разными ОС
 
-## Шаг 1
-Описание шага.
 
-## Шаг 2
-Дополнительное описание.
+<a href="pages/pwa_ios" target="_blank" rel="noopener">**PWA для iPhone / iPad из браузера Safari**</a>  
+<a href="pages/pwa_mac" target="_blank" rel="noopener">**PWA для MacBook**</a>  <br><br>
+
+---
+<p  align="right"><a href="pages/pwa_ios" target="_blank" rel="noopener">Вернуться к списку PWA</a></p>
