@@ -5,7 +5,7 @@ layout: default
 # PWA приложения для устройств с разными ОС
 
 
-<a href="/pages/subp/pwa_ios" target="_blank" rel="noopener">**PWA для iPhone / iPad из браузера Safari**</a>  
+<a href="/pages/subp/pwa_ios/" target="_blank" rel="noopener">**PWA для iPhone / iPad из браузера Safari**</a>  
 <a href="pages/subp/pwa_mac" target="_blank" rel="noopener">**PWA для MacBook**</a>  <br><br>
 
 ---
