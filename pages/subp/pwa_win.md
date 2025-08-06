@@ -1,0 +1,23 @@
+---
+title: PWA Windows
+layout: default
+---
+
+# PWA приложения для Windows, браузеры (Chrome, Edge, Vivaldi)
+
+## Установка PWA приложения
+
+Перейдите по ссылке: 
+<a href="https://kpap.link" target="_blank">https://kpap.link</a>  
+В адресной строке нажмите иконку установки приложения:
+<div style="text-align: center;">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/pwa_win_chrome_1" alt="Установка PWA приложения на Mac / MacBook" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
+</div>
+<div style="text-align: center;">Chrome</div>
+Запускаете приложение по иконке из дока. При первом запуске приложения, появится код, который нужно ввести на сайте в **«ЛК/Мои устройства»** в поле **Активация устройства**. Код живёт только 5 минут, поэтому, после получения кода сразу его вводите.<br><br>
+
+**Telegram-чат пользователей поддержки приложения (топик PWA (kpapp))**  
+<a href="https://tg.kprtfm.com" target="_blank">https://tg.kprtfm.com</a> <br><br>
+
+---
+<p  align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/pwa" target="_blank">Вернуться к списку PWA</a></p>
