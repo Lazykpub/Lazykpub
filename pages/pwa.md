@@ -8,6 +8,6 @@ layout: default
 <a href="subp/pwa_mac" target="_blank" rel="noopener">**PWA для MacBook**</a>  <br><br>
 
 ---
-<p  align="right"><a href="pages/pwa" target="_blank" rel="noopener">Вернуться к списку PWA</a></p>
+<p  align="right"><a href="pages/pwa" target="_blank">Вернуться к списку PWA</a></p>
 
 
