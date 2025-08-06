@@ -6,7 +6,7 @@ layout: default
 # PWA приложения для iPhone / iPad
 
 ## Установка PWA приложения из браузера Safari
-
+<span style="color: red;">**‼️Важно: только для iOS / iPadOS 14 и новее!**</span><br><br>
 - Откройте Safari на iPhone или iPad.
 - Перейдите по ссылке:  <a href="https://kpap.link/" target="_blank" rel="noopener">https://kpap.link/</a>
 - В нижнем меню нажмите на значок "Поделиться".
@@ -24,4 +24,4 @@ layout: default
 
 
 ---
-<p  align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/pwa" target="_blank">Вернуться к списку PWA</a></p>
+<p  align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/pwa">Вернуться к списку PWA</a></p>
