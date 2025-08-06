@@ -19,4 +19,4 @@ layout: default
 
 
 ---
-<p  align="right"><a href="pwa" target="_blank">Вернуться к списку PWA</a></p>
+<p  align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/pwa" target="_blank">Вернуться к списку PWA</a></p>
