@@ -13,15 +13,15 @@ layout: default
 <p style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/pwa_win_chrome_1.jpeg" alt="Установка PWA приложения Windows из Chrome" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 </p>
-<div style="text-align: center;">Chrome</div><br><br>
+<div style="text-align: center;">Chrome</div><br>
 <p style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/pwa_win_edge_2.jpeg" alt="Установка PWA приложения Windows из Edge" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 </p>
-<div style="text-align: center;">Edge</div> <br><br>
+<div style="text-align: center;">Edge</div> <br>
 <p style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/pwa_win_vivaldi_3.jpeg" alt="Установка PWA приложения Windows из Vivaldi" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 </p>
-<div style="text-align: center;">Vivaldi (Через меню на вкладке)</div><br><br>
+<div style="text-align: center;">Vivaldi (Через меню на вкладке)</div><br>
 <p style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/pwa_win_4.jpeg" alt="Установка PWA приложения Windows" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 </p>
