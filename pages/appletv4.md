@@ -41,8 +41,9 @@ layout: default
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/micro_install_02.png" alt="Нажмите на «+»." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 Нажмите на «+».
-</div>
+</div><br>
 
+[Наверх ⬆️](#содержание)
 
 ## Введите название плейлиста
 
