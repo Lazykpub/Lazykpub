@@ -1,9 +1,9 @@
 ---
-title: Установка PWA приложения на Windows
+title: Установка PWA приложения на устройства с ОС Windows
 layout: default
 ---
 
-# Установка PWA приложения на Windows, браузеры (Chrome, Edge, Vivaldi)
+# Установка PWA приложения на устройства с ОС Windows из браузеров Chrome, Edge, Vivaldi
 
 Перейдите по ссылке: 
 <a href="https://kpap.link" target="_blank" rel="noopener noreferrer">https://kpap.link</a>  
