@@ -15,7 +15,7 @@ layout: default
 Запускаете приложение по иконке из дока. При первом запуске приложения, появится код, который нужно ввести на сайте в **ЛК/Мои устройства** в поле **«Активация устройства»**. Код живёт только 5 минут, поэтому, после получения кода сразу его вводите.<br><br>
 
 **Telegram-чат пользователей поддержки приложения (топик PWA (kpapp))**  
-<a href="https://tg.kprtfm.com" target="_blank">https://tg.kprtfm.com</a> <br><br>
+<a href="https://tg.kprtfm.com" target="_blank" rel="noopener noreferrer">https://tg.kprtfm.com</a> <br><br>
 
 ---
 <p  align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/pwa">Вернуться к списку PWA</a></p>
