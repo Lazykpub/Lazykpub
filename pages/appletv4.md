@@ -106,7 +106,7 @@ atv4.dnskp.cc
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/micro_install_06.png" alt="Нажмите «Да»." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 Нажмите «Да».
-
+</div>
 
 
 [Наверх ⬆️](#содержание)
