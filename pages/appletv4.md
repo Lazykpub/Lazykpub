@@ -29,7 +29,7 @@ layout: default
 
 Зайдите в AppStore на AppleTV и в поисковой строке введите **MicroIPTV**.
 <div style="text-align: center;">
-  <img src="https://lazykpub.github.io/Lazykpub/assets/images/micro_install_01.png" alt="Установите приложение MicroIPTV из App Store." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/micro_install_01.png" alt="Установите приложение MicroIPTV из App Store." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 Установите приложение MicroIPTV из App Store.
 </div>
 
