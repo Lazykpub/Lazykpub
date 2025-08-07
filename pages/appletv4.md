@@ -1,11 +1,8 @@
 ---
-title: Инструкция для приложения на Apple 4/4КTV 
+title: Установка приложения на Apple 4/4КTV 
 layout: default
 ---
-<H1> Установка приложения MicroIPTV на Apple TV4/4К (с App Store)</H1>
+<H1> Установка приложения MicroIPTV на Apple TV4/4К (новые приставки с App Store)</H1>
 
-<H2> Шаг 1</H2>
-Описание шага.
-
-<H2> Шаг 2</H2>
-Дополнительное описание.
+---
+<p  align="right"><a href="https://lazykpub.github.io/Lazykpub">На Главную</a></p>
