@@ -1,5 +1,5 @@
 ---
-title: PWA iOS
+title: Установка PWA приложения на iPhone / iPad
 layout: default
 ---
 
