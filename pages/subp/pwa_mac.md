@@ -1,11 +1,9 @@
 ---
-title: PWA iOS
-layout: default
+title: Установка PWA приложения на Mac / MacBook
+layout: default 
 ---
 
-# PWA приложения для Mac / MacBook
-
-## Установка PWA приложения из браузера Safari
+# Установка PWA приложения на Mac / MacBook из браузера Safari
 <span style="color: red;">**‼️Важно: только для macOS Sonoma и новее!**</span><br><br>
 Используйте просмотр с помощью PWA приложения.  
 Перейдите по ссылке: 
