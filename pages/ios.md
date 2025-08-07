@@ -1,11 +1,8 @@
 ---
-title: Инструкция 1
+title: Установка приложения на iPhone / iPad
 layout: default
 ---
-# Инструкция 1: Как сделать что-то
+# Установка приложения на iPhone / iPad
 
-## Шаг 1
-Описание шага.
-
-## Шаг 2
-Дополнительное описание.
+---
+<p  align="right"><a href="https://lazykpub.github.io/Lazykpub">На Главную</a></p>
