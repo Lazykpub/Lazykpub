@@ -3,9 +3,7 @@ title: Установка PWA приложения на iPhone / iPad
 layout: default
 ---
 
-# PWA приложения для iPhone / iPad
-
-## Установка PWA приложения из браузера Safari
+# Установка PWA приложения на iPhone / iPad из браузера Safari
 <span style="color: red;">**‼️Важно: только для iOS / iPadOS 14 и новее!**</span><br>
 - Откройте Safari на iPhone или iPad.
 - Перейдите по ссылке:  <a href="https://kpap.link/" target="_blank" rel="noopener">https://kpap.link/</a>
