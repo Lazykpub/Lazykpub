@@ -125,15 +125,15 @@ atv4.dnskp.cc
 
 Максимальное число допустимых устройств - 5. Перед активацией нового устройства - удалите все лишние активации!
 
-<div style="background-color: #E9EAFC; color: #ffffff; padding: 10px;">
+<div style="background-color: #E9EAFC; color: #000000; padding: 10px;">
 ‼️ Код живет 5 минут. Поэтому, после получения кода - сразу вводите его на сайте. При этом, приложение MicroIPTV на AppleTV должно оставаться открытым!
 </div>
 <div style="text-align: center;">
-  <img src="https://lazykpub.github.io/Lazykpub/assets/images/micro_install_08.png" alt="Введите код активации." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/micro_install_08.jpeg" alt="Введите код активации." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 Введите код активации.
 </div>
 
-<div style="background-color: #E9EAFC; color: #ffffff; padding: 10px;">
+<div style="background-color: #E9EAFC; color: #000000; padding: 10px;">
   ‼️ При переходе на сайт для активации устройства, если у вас основной домен сайта «kino.pub» заблокирован, используйте 🔗 адрес своего персонального зеркала.
 </div>
 
@@ -168,7 +168,7 @@ atv4.dnskp.cc
 
 Если ссылка не открывается - один раз для регистрации воспользуйтесь VPN.
 
-<div style="background-color: #E9EAFC; color: #ffffff; padding: 10px;">
+<div style="background-color: #E9EAFC; color: #000000; padding: 10px;">
 ‼️ Никому не показывайте и не передавайте своё Персональное зеркало, если не хотите, чтобы оно было заблокировано!
 </div>
 
