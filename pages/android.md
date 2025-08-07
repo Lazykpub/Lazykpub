@@ -1,11 +1,9 @@
 ---
-title: Android TV и Android
+title: Установка приложения на Android TV и Android
 layout: default
 ---
 # FAQ по приложению для Android TV и Android
 
-## Шаг 1
-Описание шага.
 
-## Шаг 2
-Дополнительное описание.
+---
+<p  align="right"><a href="https://lazykpub.github.io/Lazykpub">На Главную</a></p>
