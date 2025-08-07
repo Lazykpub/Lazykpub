@@ -6,7 +6,7 @@ layout: default
 # Установка PWA приложения на iPhone / iPad из браузера Safari
 <span style="color: red;">**‼️Важно: только для iOS / iPadOS 14 и новее!**</span><br>
 - Откройте Safari на iPhone или iPad.
-- Перейдите по ссылке:  <a href="https://kpap.link/" target="_blank" "noopener noreferrer">https://kpap.link/</a>
+- Перейдите по ссылке:  <a href="https://kpap.link/" target="_blank" rel="noopener noreferrer">https://kpap.link/</a>
 - В нижнем меню нажмите на значок "Поделиться".
 - Выберите «На экран Домой».
 - Измените название или оставьте по умолчанию и нажмите в правом верхнем углу «Добавить».  
