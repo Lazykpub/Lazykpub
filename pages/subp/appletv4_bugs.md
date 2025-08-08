@@ -51,8 +51,7 @@ layout: default
 </p>
 
 **AppleTV** => Настройки => Видео и Аудио => Видео
-<div style="text-align: center;">
-  <img src="https://lazykpub.github.io/Lazykpub/assets/images/micro_bags_03.png" alt="Настойки Видео на AppleTV." style="max-width: 80%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
+<div style="text-align: center;"><img src="https://lazykpub.github.io/Lazykpub/assets/images/micro_bags_03.png" alt="Настойки Видео на AppleTV." style="max-width: 80%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">  
 Настойки Видео на AppleTV.
 </div><br>
 
