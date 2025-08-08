@@ -22,4 +22,4 @@ layout: default
 
 
 ---
-<p  align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/pwa">Вернуться к списку PWA</a></p>
+<p  align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/pwa">Вернуться к списку инструкций PWA</a></p>
