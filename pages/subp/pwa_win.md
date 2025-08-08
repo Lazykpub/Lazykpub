@@ -33,4 +33,4 @@ layout: default
 <a href="https://tg.kprtfm.com" target="_blank" rel="noopener noreferrer">https://tg.kprtfm.com</a> <br><br>
 
 ---
-<p  align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/pwa">Вернуться к списку PWA</a></p>
+<p  align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/pwa">Вернуться к списку инструкций PWA</a></p>
