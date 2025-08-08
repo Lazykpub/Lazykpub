@@ -4,7 +4,7 @@ layout: default
 ---
 # Инструкции по установке и решении проблем при использовании приложения для Apple 4/4К  (новые приставки с App Store)
 
-<a href="subp/appletv4_install">**Установка приложения MicroIPTV**</a>  
+<a href="subp/appletv4_install">**Установка приложения MicroIPTV**</a><br>
 <a href="subp/appletv4_bugs">**Известные ошибки при использовании приложения MicroIPTV**</a> 
 
 ---
