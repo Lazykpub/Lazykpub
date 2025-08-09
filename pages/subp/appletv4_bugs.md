@@ -146,7 +146,7 @@ layout: default
    При открытии приложения на экране появляется сообщение:  
    "Ошибка получения кода активации, попробуйте позднее. Ошибка 0."<br>
    <div style="text-align: center;">
-  <img src="https://lazykpub.github.io/Lazykpub/assets/images/micro_bags_08.jpeg" alt="При открытии приложения на экране появляется сообщение «Ошибка 0»." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/micro_bags_08.jpeg" alt="При открытии приложения на экране появляется сообщение «Ошибка 0»." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 При открытии приложения на экране появляется сообщение «Ошибка 0».
 </div><br>
 
@@ -206,12 +206,12 @@ RefreshToken status 0.
 5. **Используйте только рекомендованные (‼️) VPN** - они меняют маршруты и могут значительно улучшить их, если дело в маршрутах провайдера до наших серверов, а не в настройках вашего оборудования/приложения/VPN.
 
 **Telegram-чат пользователей для подбора VPN**:  
-(в закреплённом сообщении чата есть все рекомендации и инструкции по установке как платных, так и бесплатных VPN)
-<a href="https://t.me/+mwBTMRCjD4Q2M2Ri" target="_blank" rel="noopener noreferrer">https://t.me/+mwBTMRCjD4Q2M2Ri</a><br>><br>
+(в закреплённом сообщении чата есть все рекомендации и инструкции по установке как платных, так и бесплатных VPN)  
+<a href="https://t.me/+mwBTMRCjD4Q2M2Ri" target="_blank" rel="noopener noreferrer">https://t.me/+mwBTMRCjD4Q2M2Ri</a><br><br>
 
 <div style="background-color: #E9EAFC; color: #000000; padding: 10px;">
 ‼️ Если ничего из этого не помогло - пишите в офф.поддержку на email: <span style="color: green;">support@kino.pub</span>.
-</div><br><br>
+</div><br>
 
 [Наверх ⬆️](#toc)
 
