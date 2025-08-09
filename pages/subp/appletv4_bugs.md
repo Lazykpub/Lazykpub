@@ -108,7 +108,7 @@ layout: default
 
 Субтитры доступны только при установленном потоке **HLS4**.
 <div style="text-align: center;">
-  <img src="https://lazykpub.github.io/Lazykpub/assets/images/micro_bags_06.png" alt="Настройки субтитров." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/micro_bags_06.jpeg" alt="Настройки субтитров." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 Настройки субтитров.
 </div><br>
 
