@@ -147,7 +147,7 @@ layout: default
    "Ошибка получения кода активации, попробуйте позднее. Ошибка 0."<br><br>
    <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/micro_bags_08.jpeg" alt="При открытии приложения на экране появляется сообщение «Ошибка 0»." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
-При открытии приложения на экране появляется сообщение «Ошибка 0».
+При открытии приложения на экране появляется сообщение «Ошибка 0»..
 </div><br>
 
 
