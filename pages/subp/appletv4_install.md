@@ -4,7 +4,7 @@ layout: default
 ---
 # Установка приложения MicroIPTV на Apple TV4/4К (новые приставки с App Store)
 
-<a href="https://lazykpub.github.io/Lazykpub/pages/subp/appletv4_bugs" target="_blank" rel="noopener noreferrer">**🔗Известные ошибки при использовании приложения**</a>  
+<a href="https://lazykpub.github.io/Lazykpub/pages/subp/appletv4_bugs">**🔗Известные ошибки при использовании приложения**</a>  
 <a href="https://tg.kprtfm.com/" target="_blank" rel="noopener noreferrer">**🔗Телеграм-чат поддержки приложения (топик AppleTV)**</a>  
 
 
