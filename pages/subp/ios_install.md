@@ -21,7 +21,7 @@ layout: default
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/ios_install_01.png" alt="Нативное приложение для iOS/iPadOS" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 Нативное приложение для iOS/iPadOS
-</div><br>
+</div>
 
 [Наверх ⬆️](#toc)
 
@@ -68,7 +68,7 @@ layout: default
 <h2 id="3-2">🏴‍☠️ БЕСПЛАТНО</h2>
 
 1. **PWA (Progressive WEB App)** приложение - поддержка установки из браузера Safari, только для iOS/iPadOS 14 и новее. 
-🔗 <a href="https://lazykpub.github.io/Lazykpub/pages/ios" target="_blank" rel="noopener noreferrer">Инструкция по установке.</a>  
+🔗 <a href="https://lazykpub.github.io/Lazykpub/pages/subp/pwa_ios" target="_blank" rel="noopener noreferrer">Инструкция по установке.</a>  
 Установка, работа приложения обсуждается в 🔗 <a href="https://tg.kprtfm.com/" target="_blank" rel="noopener noreferrer">чате поддержки топик **PWA (kpapp)**</a>.
 
 2. **Просмотра через сайт** - поддержка просмотра через браузер <span style="color: green; font-weight: bold;">только для iOS14 и новее</span>.
