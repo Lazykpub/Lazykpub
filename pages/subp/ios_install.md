@@ -89,4 +89,4 @@ layout: default
 🔗 <a href="https://tg.kprtfm.com/" target="_blank" rel="noopener noreferrer">Перейти в чат топик **iPhone/iPad**</a>.<br><br>
 
 ---
-<p  align="right"><a href="https://lazykpub.github.io/Lazykpub">На Главную</a></p>
+<p align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/ios">Вернуться к списку iPhone/iPad</a></p>
