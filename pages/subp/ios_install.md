@@ -77,14 +77,12 @@ layout: default
 📌 **Инструкция**:  Над сериалом на сайте есть значок Podcast.
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/ios_install_03.png" alt="Нажать на значок Podcast" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
-Нажать на значок Podcast
-</div>
+Нажать на значок Podcast</div>
 Нажал → Создалась «ссылка на подкаст». Лонгтап (долгое нажатие) → Скопировать.  
 В приложении Подкасты:  добавить подкаст по URL.
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/ios_install_04.jpeg" alt="Добавить ссылку в приложении Подкасты" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
-Добавить ссылку в приложении Подкасты
-</div>  
+Добавить ссылку в приложении Подкасты</div>
 4. **AltStore** - установка с бесплатным сертификатом, требуется обновление каждые 7 дней.  
 По всем вопросам связанным с установкой, проблемами установки - обращаться в чаты поддержки AitStore - Google в помощь.
 🔗 <a href="https://lazykpub.github.io/Lazykpub/pages/subp/aitstore_install" target="_blank" rel="noopener noreferrer">Инструкция по установке</a>.
