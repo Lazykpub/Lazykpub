@@ -19,7 +19,7 @@ layout: default
 
 <h1 id="1">Приложение для просмотра на iPhone/iPad</h1>
 <div style="text-align: center;">
-  <img src="https://lazykpub.github.io/Lazykpub/assets/images/pwa_mac_1.jpeg" alt="Нативное приложение для iOS/iPadOS" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/ios_install_01.png" alt="Нативное приложение для iOS/iPadOS" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 Нативное приложение для iOS/iPadOS
 </div><br>
 
@@ -76,13 +76,13 @@ layout: default
 🔗 <a href="https://apps.apple.com/ru/app/подкасты/id525463029" target="_blank" rel="noopener noreferrer">Установить приложение Подкасты из AppStore</a>.  
 📌 **Инструкция**:  Над сериалом на сайте есть значок Podcast.
 <div style="text-align: center;">
-  <img src="https://lazykpub.github.io/Lazykpub/assets/images/pwa_mac_1.jpeg" alt="Нажать на значок Podcast" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/ios_install_03.png" alt="Нажать на значок Podcast" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 Нажать на значок Podcast
 </div><br>
 Нажал → Создалась «ссылка на подкаст». Лонгтап (долгое нажатие) → Скопировать.  
 В приложении Подкасты:  добавить подкаст по URL.
 <div style="text-align: center;">
-  <img src="https://lazykpub.github.io/Lazykpub/assets/images/pwa_mac_1.jpeg" alt="Добавить ссылку в приложении Подкасты" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/ios_install_04.jpeg" alt="Добавить ссылку в приложении Подкасты" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 Добавить ссылку в приложении Подкасты
 </div><br>
 5. **AltStore** - установка с бесплатным сертификатом, требуется обновление каждые 7 дней.  
