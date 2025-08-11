@@ -15,7 +15,7 @@ layout: default
 7. [**Бег по кругу**](#7)  
 
 
-<h1 id="1">Для начала - по одной</h1>
+<h1 id="1">1. Для начала - по одной</h1>
 
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_01.gif" alt="Это - вы." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
@@ -30,7 +30,7 @@ layout: default
 
 
 
-<h1 id="2">Установка Altstore</h1>
+<h1 id="2">2. Установка Altstore</h1>
 Итак, нам понадобится:
 
 - **Altstore** скачать можно 🔗 <a href="https://altstore.io/" target="_blank" rel="noopener noreferrer">тут</a>.
