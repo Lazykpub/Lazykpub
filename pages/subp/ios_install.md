@@ -78,7 +78,7 @@ layout: default
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/ios_install_03.png" alt="Нажать на значок Podcast" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 Нажать на значок Podcast
-</div><br>
+</div>
 Нажал → Создалась «ссылка на подкаст». Лонгтап (долгое нажатие) → Скопировать.  
 В приложении Подкасты:  добавить подкаст по URL.
 <div style="text-align: center;">
