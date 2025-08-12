@@ -6,8 +6,8 @@ layout: default
 
 <a href="subp/">**Установка приложения**</a><br>
   — <a href="subp/">**Установка через Media station X** (для всех Smart TV (не на ОС Android)</a> <br>
-  — <a href="subp/">**Установка в память устройства на ТВ LG с WebOS через Dev Manager**</a> <br>
-  — <a href="subp/">**Установка приложения на ТВ Samsung с ОС Tizen через TheDark SmartTV Media Center**</a> <br><br>
+  — <a href="subp/">**Установка приложения в память устройства на ТВ LG с WebOS через Dev Manager**</a> <br>
+  — <a href="subp/">**Установка приложения в память устройства на ТВ Samsung с ОС Tizen через TheDark SmartTV Media Center**</a> <br><br>
 <a href="subp/">**Настройки приложения**</a> <br><br>
 <a href="subp/">**FAQ** (Часто задаваемые вопросы)</a> <br><br>
 <a href="subp/">**Ничего не работает, что делать?**</a> <br><br>
