@@ -158,10 +158,41 @@ layout: default
 [Наверх ⬆️](#toc)
 
 
-
-
 <h1 id="6">6. Установка</h1>
+<div style="text-align: center;">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_14.jpeg" alt="Сохраните ipa или попытайтесь открыть его в системе." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Сохраните ipa или попытайтесь открыть его в системе.
+</div><br>
 
+<div style="text-align: center;">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_15.jpeg" alt="Выбираем AltStore из списка Экспорта." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Выбираем AltStore из списка Экспорта.
+</div><br>
+
+<div style="text-align: center;">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_16.jpeg" alt="Keep App Extensions." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Keep App Extensions.
+</div><br>
+
+<div style="text-align: center;">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_17.jpeg" alt="Снова понадобится действующий AppleID с паролем (своим или созданным на предыдущем шаге)." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Снова понадобится действующий AppleID с паролем (своим или созданным на предыдущем шаге).
+</div><br>
+
+<div style="text-align: center;">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_18.jpeg" alt="Подтверждаем, жмём на «Got it»." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Подтверждаем, жмём на «Got it».
+</div><br>
+
+<div style="text-align: center;">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_19.jpeg" alt="Увидите такое - можете начинать танцевать." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Увидите такое - можете начинать танцевать.
+</div><br>
+
+<div style="text-align: center;">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_20.jpeg" alt="Вытираем скупую слезу и пользуемся приложением." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Вытираем скупую слезу и пользуемся приложением.
+</div><br>
 
 [Наверх ⬆️](#toc)
 
