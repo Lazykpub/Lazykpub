@@ -205,6 +205,16 @@ layout: default
 Почти да, но к сожалению компания Apple дает вам пользоваться таким способом только 7 дней (когда то было 14), и процедуру (подключить кабелем или по WiFi к ноутбуку, нажать Refresh All) придётся повторять максимум через неделю (либо в любой день до окончания):
 
 <div style="text-align: center;">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_21.png" alt="Истек срок, пора обновить." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Истек срок, пора обновить.
+</div><br>
+
+<div style="text-align: center;">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_22.png" alt="Обновляем." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Обновляем.
+</div><br>
+
+<div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_23.png" alt="Обновили." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
   Обновили.
 </div><br>
