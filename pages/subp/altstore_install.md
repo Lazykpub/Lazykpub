@@ -18,8 +18,8 @@ layout: default
 <h1 id="1">1. Для начала - по одной</h1>
 
 <div style="text-align: center;">
-  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_01.gif" alt="Это - вы." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
-  <br>Это - вы.
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_01.gif" alt="Это - вы." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Это - вы.
 </div><br>
 
 Итак, дорогие касатики, вы снова читаете статью из цикла «**Как перестать бояться и начать ~~пить~~ устанавливать приложения**».
@@ -49,41 +49,40 @@ layout: default
 Запускаем **setup.exe** и жмакаем далее, далее...  
 Запускаем **AltServer** и видим такое:
 <div style="text-align: center;">
-  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_02.png" alt="Пора установить iTunes и разрешить Брандмауэру делать непотребства" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
-  <br>Пора установить iTunes и разрешить Брандмауэру делать непотребства.
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_02.png" alt="Пора установить iTunes и разрешить Брандмауэру делать непотребства" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Пора установить iTunes и разрешить Брандмауэру делать непотребства.
 </div><br>
 
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_03.png" alt="и еще iCloud до кучи может понадобится." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
-и еще iCloud до кучи может понадобится.
+  и еще iCloud до кучи может понадобится.
 </div><br>
 
 Установили iTunes и iCloud (если у вас их не было конечно). Может потребоваться перезагрузка (но и без нее все заработает). 
-
 Запускаем **AltServer** снова и смотрим в трей 👇🏼.
 <div style="text-align: center;">
-  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_04.png" alt="Пора установить тебя, детка.." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
-  <br>Пора установить тебя, детка.
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_04.png" alt="Пора установить тебя, детка.." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Пора установить тебя, детка.
 </div><br>
 
 Если устройство не видно, значит я забыл вам сказать, что надо подключить его шнурком (либо потом можно включить iTunes WiFi Sync и все делать по wifi) к ноуту. Жмем смело на устройство.
 
 <div style="text-align: center;">
-  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_05.png" alt="Настало время вводить AppleID с паролем." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
-  <br>Настало время вводить AppleID с паролем.
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_05.png" alt="Настало время вводить AppleID с паролем." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Настало время вводить AppleID с паролем.
 </div><br>
 
 
 На этом моменте стоит немного заострить внимания, ибо **вводить свой драгоценный Apple ID куда попало вещь так себе**, если вам лень включать параноика можете вводить свои данные, остальные переходим на <a href="https://appleid.apple.com" target="_blank" rel="noopener noreferrer">https://appleid.apple.com</a>
 
 <div style="text-align: center;">
-  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_06.png" alt="Создать пароль..." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
-  <br>Создать пароль...
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_06.png" alt="Создать пароль..." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Создать пароль...
 </div><br>
 
 <div style="text-align: center;">
-  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_07.png" alt="Любое имя." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
-  <br>Любое имя.
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_07.png" alt="Любое имя." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Любое имя.
 </div><br>
 
 Далее, попросит ваш пароль от вашего Apple ID (тут безопасно вводить) и вуаля - получили пароль, который можно смело вводить в приложении.
@@ -91,11 +90,29 @@ layout: default
 
 [Наверх ⬆️](#toc)
 
-
+---
 
 
 <h1 id="4">4. Для пользователей MacOS</h1>
+1. Загрузите AltServer для Mac.
+2. Скопируйте «AltServer.app» в папку «Приложения».
+3. Запустите AltServer (он появится в виде значка в строке меню).
+4. Подключите iPhone/iPad к маку и убедитесь, что он разблокирован.
+5. Нажимайте «Доверять» на iPhone компьютеру (при необходимости).
+6. Щелкните значок AltServer в строке меню Mac, щелкните «Установить AltStore», затем выберите свой телефон или планшет.
+7. Введите свой адрес электронной почты Apple ID и пароль.
+8. AltServer попросит вас установить плагин Почты (только в первый раз). 
+9. Нажмите «Установить почтовый плагин» в меню AltServer.
+10. Введите свой пароль, чтобы предоставить AltServer разрешение на установку подключаемого модуля.
+11. Откройте Почту (сначала закройте Почту, если она уже была запущена).
+12. Откройте Почта => Настройки.
+13. Нажмите «Управление надстройками...»
+14. Включите «AltPlugin.mailbundle»
+15. Нажмите «Применить и перезапустить почту», чтобы завершить установку.
 
+<div style="background-color: #E9EAFC; color: #000000; padding: 10px;">
+Если что-то не понятно, описание есть 🔗 <a href="" target="_blank" rel="noopener noreferrer">тут</a>.
+</div><br>
 
 [Наверх ⬆️](#toc)
 
