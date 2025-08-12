@@ -19,8 +19,8 @@ layout: default
 
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_01.gif" alt="Это - вы." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
-
-Это - вы.</div><br>
+  <br>Это - вы.
+</div><br>
 
 Итак, дорогие касатики, вы снова читаете статью из цикла «**Как перестать бояться и начать ~~пить~~ устанавливать приложения**».
 
@@ -46,47 +46,46 @@ layout: default
 
 <h1 id="3">3. Для пользователей Windows</h1>
 Скачиваем архив 🔗 <a href="https://cdn.altstore.io/file/altstore/altinstaller.zip" target="_blank" rel="noopener noreferrer">altinstaller.zip и распаковываем его</a>. 
-
-Запускаем setup.exe и жмакаем далее, далее... 
+  Запускаем setup.exe и жмакаем далее, далее... 
 
 Запускаем AltServer и видим такое:
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_02.png" alt="Пора установить iTunes и разрешить Брандмауэру делать непотребства" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
-
-Пора установить iTunes и разрешить Брандмауэру делать непотребства.</div><br>
+  <br>Пора установить iTunes и разрешить Брандмауэру делать непотребства.
+</div><br>
 
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_03.png" alt="и еще iCloud до кучи может понадобится." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
-
-и еще iCloud до кучи может понадобится.</div><br>
+  <br>и еще iCloud до кучи может понадобится.
+</div><br>
 
 Установили iTunes и iCloud (если у вас их не было конечно). Может потребоваться перезагрузка (но и без нее все заработает). 
 
 Запускаем AltServer снова и смотрим в трей 👇🏼.
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_04.png" alt="Пора установить тебя, детка.." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
-
-Пора установить тебя, детка.</div><br>
+  <br>Пора установить тебя, детка.
+</div><br>
 
 Если устройство не видно, значит я забыл вам сказать, что надо подключить его шнурком (либо потом можно включить iTunes WiFi Sync и все делать по wifi) к ноуту. Жмем смело на устройство.
 
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_05.png" alt="Настало время вводить AppleID с паролем." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
-
-Настало время вводить AppleID с паролем.</div><br>
+  <br>Настало время вводить AppleID с паролем.
+</div><br>
 
 
 На этом моменте стоит немного заострить внимания, ибо вводить свой драгоценный Apple ID куда попало вещь так себе, если вам лень включать параноика можете вводить свои данные, остальные переходим на <a href="https://appleid.apple.com" target="_blank" rel="noopener noreferrer">https://appleid.apple.com</a>
 
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_06.png" alt="Создать пароль..." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
-
-Создать пароль...</div><br>
+  <br>Создать пароль...
+</div><br>
 
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_07.png" alt="Любое имя." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
-
-Любое имя.</div><br>
+  <br>Любое имя.
+</div><br>
 
 Далее, попросит ваш пароль от вашего Apple ID (тут безопасно вводить) и вуаля - получили пароль, который можно смело вводить в приложении.
 
