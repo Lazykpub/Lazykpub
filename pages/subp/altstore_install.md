@@ -46,9 +46,7 @@ layout: default
 
 <h1 id="3">3. Для пользователей Windows</h1>
 Скачиваем 🔗 <a href="https://cdn.altstore.io/file/altstore/altinstaller.zip" target="_blank" rel="noopener noreferrer">**архив altinstaller.zip**</a> и распаковываем его.  
-
 Запускаем **setup.exe** и жмакаем далее, далее...  
-
 Запускаем **AltServer** и видим такое:
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_02.png" alt="Пора установить iTunes и разрешить Брандмауэру делать непотребства" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
@@ -56,8 +54,8 @@ layout: default
 </div><br>
 
 <div style="text-align: center;">
-  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_03.png" alt="и еще iCloud до кучи может понадобится." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
-  <br>и еще iCloud до кучи может понадобится.
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_03.png" alt="и еще iCloud до кучи может понадобится." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+и еще iCloud до кучи может понадобится.
 </div><br>
 
 Установили iTunes и iCloud (если у вас их не было конечно). Может потребоваться перезагрузка (но и без нее все заработает). 
