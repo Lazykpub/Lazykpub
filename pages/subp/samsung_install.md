@@ -10,8 +10,8 @@ layout: default
 — компьютер, на который будет устанавливаться программное обеспечение для доступа к телевизору.
 
 ## Инструкция
-1. Зарегистрируйтесь на <a href="http://smart-tv-home.ru" target="_blank" rel="noopener noreferrer">http://smart-tv-home.ru/</a>, скачайте и установите на компьютер приложение **TheDark SmartTV Media Center**.
-2. Запустите TheDarkSmartTVServer и введите логин и пароль от <a href="http://smart-tv-home.ru" target="_blank" rel="noopener noreferrer">http://smart-tv-home.ru/</a>.
+1. Зарегистрируйтесь на <a href="http://smart-tv-home.ru" target="_blank" rel="noopener noreferrer">**http://smart-tv-home.ru/**</a>, скачайте и установите на компьютер приложение **TheDark SmartTV Media Center**.
+2. Запустите TheDarkSmartTVServer и введите логин и пароль от <a href="http://smart-tv-home.ru" target="_blank" rel="noopener noreferrer">**http://smart-tv-home.ru/**</a>.
 3. Зайдите в раздел ТАЙЗЕН и пропишите IP вашего телевизора.
 4. На телевизоре включите **режим разработки**:
     - откройте **APPS** и нажмите на пульте **1 2 3 4 5**;
