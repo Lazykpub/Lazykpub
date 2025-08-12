@@ -6,8 +6,8 @@ layout: default
 # Установка приложения в память устройства на ТВ Samsung с ОС Tizen через TheDark SmartTV Media Center
 
 ## Требования
-— телевизор Samsung c Tizen v3+  
-— компьютер, на который будет устанавливаться программное обеспечение для доступа к телевизору
+— телевизор Samsung c Tizen v3+;  
+— компьютер, на который будет устанавливаться программное обеспечение для доступа к телевизору.
 
 ## Инструкция
 1. Зарегистрируйтесь на <a href="http://smart-tv-home.ru" target="_blank" rel="noopener noreferrer">http://smart-tv-home.ru/</a>, скачайте и установите на компьютер приложение **TheDark SmartTV Media Center**.
