@@ -111,10 +111,45 @@ layout: default
 15. Нажмите **Применить и перезапустить почту**, чтобы завершить установку.
 
 <div style="background-color: #E9EAFC; color: #000000; padding: 10px;">
-Если что-то не понятно, описание есть 🔗 <a href="https://altstore.io/faq/" target="_blank" rel="noopener noreferrer">тут</a>.
+Если что-то не понятно, описание есть 🔗 <a href="" target="_blank" rel="noopener noreferrer">тут</a>.
+</div><br>
+
+После непродолжительной паузы на планшете или телефоне появится иконка:
+<div style="text-align: center;">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_08.jpeg" alt="Иконка для запуска Altstore." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Иконка для запуска Altstore.
+</div><br>
+
+<div style="text-align: center;">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_09.jpeg" alt="А то!." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  А то!.
+</div><br>
+
+Не стоит сразу запускать, ибо нам еще надо сбегать в Настройки:
+<div style="text-align: center;">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_10.jpeg" alt="С iOS 15 это «VPN и управление устройством», ранее было просто Управление устройством." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  С iOS 15 это «VPN и управление устройством», ранее было просто Управление устройством.
+</div><br>
+
+<div style="text-align: center;">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_11.jpeg" alt="Выбираем «ПО разработчика»." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Выбираем «ПО разработчика».
+</div><br>
+
+<div style="text-align: center;">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_12.jpeg" alt="И жмем «Доверять»." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  И жмем «Доверять».
+</div><br>
+
+<div style="text-align: center;">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_13.jpeg" alt="Вот такое окно мы должны увидеть." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Вот такое окно мы должны увидеть.
 </div><br>
 
 [Наверх ⬆️](#toc)
+
+---
+
 
 
 
