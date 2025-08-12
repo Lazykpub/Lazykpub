@@ -45,10 +45,11 @@ layout: default
 
 
 <h1 id="3">3. Для пользователей Windows</h1>
-Скачиваем архив 🔗 <a href="https://cdn.altstore.io/file/altstore/altinstaller.zip" target="_blank" rel="noopener noreferrer">altinstaller.zip и распаковываем его</a>. 
-  Запускаем setup.exe и жмакаем далее, далее... 
+Скачиваем 🔗 <a href="https://cdn.altstore.io/file/altstore/altinstaller.zip" target="_blank" rel="noopener noreferrer">**архив altinstaller.zip**</a> и распаковываем его.  
 
-Запускаем AltServer и видим такое:
+Запускаем **setup.exe** и жмакаем далее, далее...  
+
+Запускаем **AltServer** и видим такое:
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_02.png" alt="Пора установить iTunes и разрешить Брандмауэру делать непотребства" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
   <br>Пора установить iTunes и разрешить Брандмауэру делать непотребства.
@@ -61,7 +62,7 @@ layout: default
 
 Установили iTunes и iCloud (если у вас их не было конечно). Может потребоваться перезагрузка (но и без нее все заработает). 
 
-Запускаем AltServer снова и смотрим в трей 👇🏼.
+Запускаем **AltServer** снова и смотрим в трей 👇🏼.
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_04.png" alt="Пора установить тебя, детка.." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
   <br>Пора установить тебя, детка.
@@ -75,7 +76,7 @@ layout: default
 </div><br>
 
 
-На этом моменте стоит немного заострить внимания, ибо вводить свой драгоценный Apple ID куда попало вещь так себе, если вам лень включать параноика можете вводить свои данные, остальные переходим на <a href="https://appleid.apple.com" target="_blank" rel="noopener noreferrer">https://appleid.apple.com</a>
+На этом моменте стоит немного заострить внимания, ибо **вводить свой драгоценный Apple ID куда попало вещь так себе**, если вам лень включать параноика можете вводить свои данные, остальные переходим на <a href="https://appleid.apple.com" target="_blank" rel="noopener noreferrer">https://appleid.apple.com</a>
 
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/altstore_install_06.png" alt="Создать пароль..." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
