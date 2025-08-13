@@ -11,9 +11,10 @@ layout: default
 
 ## Инструкция
 1. **Подготовка**
-    - Создать аккаунт на сайте <a href="http://webostv.developer.lge.com" target="_blank" rel="noopener noreferrer">**http://webostv.developer.lge.com/**</a>. При регистрации использовать почту в зоне .com.
+    - Создать аккаунт на сайте <a href="http://webostv.developer.lge.com" target="_blank" rel="noopener noreferrer">**http://webostv.developer.lge.com/**</a>.
+      При регистрации использовать почту в зоне .com.
     - Подключить телевизор в ту же сеть, что и компьютер.
-    - Установить на компьютер приложение <a href="" target="_blank" rel="noopener noreferrer">**Dev Manager**</a>.
+    - Установить на компьютер приложение <a href="https://github.com/webosbrew/dev-manager-desktop/releases/" target="_blank" rel="noopener noreferrer">**Dev Manager**</a>.
 2. **На телевизоре**
     - отключить в настройках **Быструю загрузку**;
     - установить приложение **Developers mode** из **LG store content**;
@@ -30,7 +31,8 @@ layout: default
        <a href="https://cdnservices.link/dl/webos/kinopub_youtube.ipk" target="_blank" rel="noopener noreferrer">**запуск через кнопку YouTube на пульте**</a>
        <a href="https://cdnservices.link/dl/webos/kinopub.tv_movies_lg-cinema.ipk" target="_blank" rel="noopener noreferrer">**запуск через кнопку Movies (LG Cinema) на пульте**</a>
        <a href="https://cdnservices.link/dl/webos/kinopub.tv_movies_rakuten-tv.ipk" target="_blank" rel="noopener noreferrer">**запуск через кнопку Movies (Rakuten TV) на пульте**</a>
-    - Оригинальные приложения необходимо удалить.
+      Оригинальные приложения необходимо удалить.
+    - в **Dev Manager** выбрать пункт меню Install и установить приложение.
 4. ‼️**ВАЖНО**  
    У режима разработчика на телевизоре есть таймер времени в **1000 часов**, после окончания которого, согласно информации с официального сайта LG, установленные через режим разработчика приложения удаляются.
    
