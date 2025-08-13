@@ -15,6 +15,7 @@ layout: default
 
 ### Мой телевизор соответствует требованиям, но все равно ничего не работает
 **Переустановите Media Station X** (или установите приложение непосредственно в память телевизора, если у вас <a href="https://lazykpub.github.io/Lazykpub/pages/subp/lg_install" target="_blank" rel="noopener noreferrer">**LG**</a> или <a href="https://lazykpub.github.io/Lazykpub/pages/subp/samsung_install" target="_blank" rel="noopener noreferrer">**Samsung**</a>), отключите телевизор от питания на пару минут, перезагрузите роутер.  
+
 **Измерьте скорость** до наших серверов в приложении или в браузере телевизора по ссылке <a href="" target="_blank" rel="noopener noreferrer">**https://zamerka.com/**</a>, по результатам измерения в настройках приложения установите сервер с большей скоростью.
 
 **В приложении выставите следующие настройки**:  
