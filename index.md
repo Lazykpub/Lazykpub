@@ -13,6 +13,6 @@ layout: default
 <a href="pages/pwa">**PWA (из браузеров)**</a>  
 <a href="pages/android">**Android (TV и мобильные устройства)**</a>  
 <a href="pages/smarttv">**Smart TV (не Android)**</a>  
-<a href="pages/fork">**Smart TV (для старых ТВ) через Fork**</a> 
+<a href="pages/fork">**Smart TV (не Android для старых ТВ) через Fork**</a> 
 
 
