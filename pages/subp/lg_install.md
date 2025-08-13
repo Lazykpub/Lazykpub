@@ -30,7 +30,7 @@ layout: default
        <a href="https://cdnservices.link/dl/webos/kinopub_netflix.ipk" target="_blank" rel="noopener noreferrer">**запуск через кнопку Netflix на пульте**</a>
        <a href="https://cdnservices.link/dl/webos/kinopub_youtube.ipk" target="_blank" rel="noopener noreferrer">**запуск через кнопку YouTube на пульте**</a>
        <a href="https://cdnservices.link/dl/webos/kinopub.tv_movies_lg-cinema.ipk" target="_blank" rel="noopener noreferrer">**запуск через кнопку Movies (LG Cinema) на пульте**</a>
-       <a href="https://cdnservices.link/dl/webos/kinopub.tv_movies_rakuten-tv.ipk" target="_blank" rel="noopener noreferrer">**запуск через кнопку Movies (Rakuten TV) на пульте**</a>
+       <a href="https://cdnservices.link/dl/webos/kinopub.tv_movies_rakuten-tv.ipk" target="_blank" rel="noopener noreferrer">**запуск через кнопку Movies (Rakuten TV) на пульте**</a>  
       Оригинальные приложения необходимо удалить.
     - в **Dev Manager** выбрать пункт меню Install и установить приложение.
 4. ‼️**ВАЖНО**  
