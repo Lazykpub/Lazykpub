@@ -2,7 +2,7 @@
 title: Установка и настройки приложений на Smart TV (не Android)
 layout: default
 ---
-# Установка и настройки приложений на Smart TV в память устройств, с помощью MSX и через Fork (для старых ТВ)<br><br>
+# Установка приложений на Smart TV в память устройств и с помощью MSX, рекомендованные настройки, решение проблем.<br><br>
 
 <a href="https://lazykpub.github.io/Lazykpub/pages/smarttv">**Установка приложения**</a><br><br>
   — <a href="subp/msx_install">**Установка приложения через Media Station X** (для всех Smart TV (не на ОС Android)</a> <br>
