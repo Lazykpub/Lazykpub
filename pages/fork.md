@@ -5,9 +5,9 @@ layout: default
 
 # Инструкции для просмотра через Fork
 
-<a href="subp/fork_install">**Установка плагина для Forkplayer**</a><br>
-<a href="subp/fork_settings">**Рекоменованные настройки Fork**</a><br>
-<a href="subp/fork_problem">**Рекомендации и решение проблем при просмотре через Fork**</a><br>
+<a href="subp/fork-install">**Установка плагина для Forkplayer**</a><br>
+<a href="subp/fork-settings">**Рекоменованные настройки Fork**</a><br>
+<a href="subp/fork-problem">**Рекомендации и решение проблем при просмотре через Fork**</a><br>
 
 
 ---
