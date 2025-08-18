@@ -28,7 +28,8 @@ layout: default
 Для начала убедитесь, что у вас устройство на Android, особенно в случае телевизора. Если у вас **Samsung** или **LG** - то у вас **100% не Android** и вам надо пройти в Плагин для Samsung, LG и других "Смарт ТВ" - жать <a href="https://lazykpub.github.io/Lazykpub/pages/smarttv" target="_blank" rel="noopener noreferrer">**сюда**</a> или <a href="https://lazykpub.github.io/Lazykpub/pages/fork" target="_blank" rel="noopener noreferrer">**сюда**</a>!
 
 ### Телефон (планшет) или приставка на **Android версии 4.✶**
-  - <span style="color: red;">**ВНИМАНИЕ!**</span> **ДАННАЯ ВЕРСИЯ БОЛЬШЕ НИГДЕ НЕ ПОДДЕРЖИВАЕТСЯ. ПОВТОРЯЕМ: НИГДЕ!!!**.  
+  - <span style="color: red;">**ВНИМАНИЕ!**</span> **ДАННАЯ ВЕРСИЯ БОЛЬШЕ НИГДЕ НЕ ПОДДЕРЖИВАЕТСЯ.
+    ПОВТОРЯЕМ: НИГДЕ!!!**.  
 
 ### Телефон (планшет) или приставка на **Android версии >= 5.0**
   - Открываем браузер и вводим <span style="color: green;">**https://kpdl.link/k.apk**</span> - после скачивания устанавливаем.  
