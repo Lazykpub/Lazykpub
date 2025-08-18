@@ -25,7 +25,34 @@ layout: default
 <h1 id="1">Установка приложения</h1>
 
 <h2 id="1-1">Установка, первый запуск и обновление</h2>
+Для начала убедитесь, что у вас устройство на Android, особенно в случае телевизора. Если у вас Samsung или LG - то у вас 100% не Android и вам надо пройти в Плагин для Samsung, LG и других "Смарт ТВ" - жать <a href="https://lazykpub.github.io/Lazykpub/pages/smarttv" target="_blank" rel="noopener noreferrer">**сюда**</a> или <a href="https://lazykpub.github.io/Lazykpub/pages/fork" target="_blank" rel="noopener noreferrer">**сюда**</a>!
 
+### Телефон (планшет) или приставка на **Android версии 4.✶**
+  - ВНИМАНИЕ! ДАННАЯ ВЕРСИЯ БОЛЬШЕ НИГДЕ НЕ ПОДДЕРЖИВАЕТСЯ, ПОВТОРЯЕМ, НИГДЕ.  
+
+### Телефон (планшет) или приставка на **Android версии >= 5.0**
+  - открываем браузер и вводим <span style="color: green;">**https://kpdl.link/k.apk**</span> - после скачивания устанавливаем.  
+
+### Приставка или телевизор с Android TV версии >= 5.0
+  - Скачиваем приложение http://kpdl.link/k.apk , копируем его на флешку, вставляем в устройство и запускаем установку.  
+  - Если флешки нет и вы ее потеряли, то устанавливаем из Google Play приложение <a href="https://play.google.com/store/apps/details?id=com.esaba.downloader&hl=ru" target="_blank" rel="noopener noreferrer">**Downloader by AFTVnews**</a>.
+просто начинайте набирать **downloader** (зачастую достаточно набрать первую букву d - и вы увидите оранжевую иконку или если нет, то над клавиатурой подсказку **Downloader by AFTVnews** перейдите на нее и установите приложение.
+
+<div style="text-align: center;">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/android_install_01.png" alt="Текст." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Текст.
+</div><br>
+
+После установки и запуска оно попросит доступ к внутренней памяти. Дайте доступ, введите ссылку <span style="color: green;">**https://kpdl.link/k.apk**</span> и нажмите кнопку Go.
+
+<div style="text-align: center;">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/android_install_02.png" alt="Текст." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  Текст.
+</div><br>
+
+Downloader скачает APK, предложит дать разрешение на установку и установит приложение. (В дальнейшем приложение будет автоматически обновляться, предлагая новые версии приложения и сообщать об изменениях новых версий.).
+
+После установки надо перейти к следующему пункту - **Активации устройства**.
 
 [Наверх ⬆️](#toc)
 
