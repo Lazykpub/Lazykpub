@@ -32,7 +32,7 @@ layout: default
     ПОВТОРЯЕМ: НИГДЕ!!!**.  
 
 ### Телефон (планшет) или приставка на **Android версии >= 5.0**
-  - Открываем браузер и вводим <span style="color: green;">**https://kpdl.link/k.apk**</span> - после скачивания устанавливаем.  
+  - Открываем браузер и вводим <a href="https://kpdl.link/k.apk" target="_blank" rel="noopener noreferrer">**https://kpdl.link/k.apk**</a> - после скачивания устанавливаем.  
 
 ### Приставка или телевизор с Android TV версии >= 5.0
   - Скачиваем приложение <a href="http://kpdl.link/k.apk" target="_blank" rel="noopener noreferrer">**http://kpdl.link/k.apk**</a> , копируем его на флешку, вставляем в устройство и запускаем установку.  
