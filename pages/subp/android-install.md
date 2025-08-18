@@ -34,7 +34,7 @@ layout: default
   - Открываем браузер и вводим <span style="color: green;">**https://kpdl.link/k.apk**</span> - после скачивания устанавливаем.  
 
 ### Приставка или телевизор с Android TV версии >= 5.0
-  - Скачиваем приложение <a href="" target="_blank" rel="noopener noreferrer">**http://kpdl.link/k.apk**</a> , копируем его на флешку, вставляем в устройство и запускаем установку.  
+  - Скачиваем приложение <a href="http://kpdl.link/k.apk" target="_blank" rel="noopener noreferrer">**http://kpdl.link/k.apk**</a> , копируем его на флешку, вставляем в устройство и запускаем установку.  
   - Если флешки нет и вы ее потеряли, то устанавливаем из Google Play приложение <a href="https://play.google.com/store/apps/details?id=com.esaba.downloader&hl=ru" target="_blank" rel="noopener noreferrer">**Downloader by AFTVnews**</a>.
 просто начинайте набирать **downloader** (зачастую достаточно набрать первую букву d - и вы увидите оранжевую иконку или если нет, то над клавиатурой подсказку **Downloader by AFTVnews** перейдите на нее и установите приложение.
 
