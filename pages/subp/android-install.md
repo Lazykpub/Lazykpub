@@ -85,6 +85,15 @@ Downloader скачает APK, предложит дать разрешение 
 
 <h2 id="1-3">1.3 Альтернативные способы установки на приставки</h2>
 
+Способов установки имеется огромное количество и специфичные для вашей приставки (ТВ) на Android TV можно найти на сайте <span style="color: green; font-weight: bold;">4pda.ru</span> в подфоруме вашего устройства.
+
+### Несколько альтернативный вариантов установки
+
+- **Если ваш телефон так же на Android**, то можно воспользоваться данным приложением: <a href="https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv&hl=ru" target="_blank" rel="noopener noreferrer">**Send files to TV**.</a>  
+- **Установка с сетевого диска (NAS)** - скачиваем apk на телефон или ноутбук и копируем на NAS, на Android TV ставим <a href="https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore&hl=ru" target="_blank" rel="noopener noreferrer">**X-plore File Manager**.</a>  
+- **Установка с GoogleDrive (Dropbox)** - скачиваем apk на телефон или ноутбук и копируем его в **GoogleDrive (Dropbox)**. На Android TV ставим <a href="https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore&hl=ru" target="_blank" rel="noopener noreferrer">**X-plore File Manager**</a> подключаемся к **GoogleDrive (Dropbox)** и устанавливаем от туда.  
+- **Установка через приложение** <a href="https://play.google.com/store/apps/details?id=com.dooblou.WiFiFileExplorer&hl=ru" target="_blank" rel="noopener noreferrer">**WiFI File Explorer**</a> подключаемся к приставке из браузера на десктопе (лаптопе, телефоне) по указанному на экране приставки адресу из той же сети (для примера - <span style="color: green; font-weight: bold;">http://192.168.49.1:8000)</span>. Через браузер загружаете APK и уже на устройстве устанавливаете любым файл менеджером.
+
 [Наверх ⬆️](#toc)
 
 ---
