@@ -32,10 +32,10 @@ layout: default
   - <span style="color: red;">**ВНИМАНИЕ! ДАННАЯ ВЕРСИЯ БОЛЬШЕ НИГДЕ НЕ ПОДДЕРЖИВАЕТСЯ**.</span>  
     **ПОВТОРЯЕМ: НИГДЕ!!!**.  
 
-### Телефон (планшет) или приставка на **Android версии >= 5.0**
+### Телефон (планшет) или приставка на **Android версии ≥ 5.0**
   - Открываем браузер и вводим <a href="https://kpdl.link/k.apk" target="_blank" rel="noopener noreferrer">**https://kpdl.link/k.apk**</a> - после скачивания устанавливаем.  
 
-### Приставка или телевизор с Android TV версии >= 5.0
+### Приставка или телевизор с Android TV версии ≥ 5.0
   - Скачиваем приложение <a href="http://kpdl.link/k.apk" target="_blank" rel="noopener noreferrer">**http://kpdl.link/k.apk**</a> , копируем его на флешку, вставляем в устройство и запускаем установку.  
   - Если флешки нет и вы ее потеряли, то устанавливаем из Google Play приложение <a href="https://play.google.com/store/apps/details?id=com.esaba.downloader&hl=ru" target="_blank" rel="noopener noreferrer">**Downloader by AFTVnews**</a>.
 просто начинайте набирать **downloader** (зачастую достаточно набрать первую букву d - и вы увидите оранжевую иконку или если нет, то над клавиатурой подсказку **Downloader by AFTVnews** перейдите на нее и установите приложение.
@@ -99,11 +99,15 @@ Downloader скачает APK, предложит дать разрешение 
 ---
 
 <h2 id="1-4">1.4 История изменений и предыдущие версии</h2>
+- **История изменений**: <a href="https://kpdl.link/changelog.txt" target="_blank" rel="noopener noreferrer">**https://kpdl.link/changelog.txt**</a>  
+- **Последняя версия** (для устройств версии ≥ 5.0 Android и Android TV apk один и тот же) <a href="https://kpdl.cc/k.apk" target="_blank" rel="noopener noreferrer">**https://kpdl.cc/k.apk**</a>  
+- **Предыдущие версии** можно скачать по номеру, например версия 1.26 - <a href="https://kpdl.link/k-1.25.apk" target="_blank" rel="noopener noreferrer">**https://kpdl.link/k-1.25.apk**</a>  
+- **Бета версии** можно скачать по ссылке <a href="https://kpdl.link/kb.apk" target="_blank" rel="noopener noreferrer">**https://kpdl.link/kb.apk**</a>  
+  Бета версии обновляются только до новой стабильной версии.<br><br>
 
+[Наверх ⬆️](#toc)<br>
 
-[Наверх ⬆️](#toc)
-
-
+---
 
 <h1 id="2">2. Настройка</h1>
 
