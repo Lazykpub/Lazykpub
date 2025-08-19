@@ -100,7 +100,7 @@ Downloader скачает APK, предложит дать разрешение 
 
 <h2 id="1-4">1.4 История изменений и предыдущие версии</h2>
 - **История изменений**: <a href="https://kpdl.link/changelog.txt" target="_blank" rel="noopener noreferrer">**https://kpdl.link/changelog.txt**</a>  
-- **Последняя версия** (для устройств версии ≥ 5.0 Android и Android TV apk один и тот же) <a href="https://kpdl.cc/k.apk" target="_blank" rel="noopener noreferrer">**https://kpdl.cc/k.apk**</a>  
+- **Последняя версия** (для устройств версии ≥ 5.0 Android и Android TV apk один и тот же) <a href="https://kpdl.link/k.apk" target="_blank" rel="noopener noreferrer">**https://kpdl.link/k.apk**</a>  
 - **Предыдущие версии** можно скачать по номеру, например версия 1.26 - <a href="https://kpdl.link/k-1.25.apk" target="_blank" rel="noopener noreferrer">**https://kpdl.link/k-1.25.apk**</a>  
 - **Бета версии** можно скачать по ссылке <a href="https://kpdl.link/kb.apk" target="_blank" rel="noopener noreferrer">**https://kpdl.link/kb.apk**</a>  
   Бета версии обновляются только до новой стабильной версии.<br><br>
