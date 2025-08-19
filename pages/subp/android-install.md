@@ -21,15 +21,16 @@ layout: default
   + [Как транслировать на Google Chromecast](#3-6)  
   + [Как сообщить об ошибке в приложении](#3-7)  
 
-
+ 
 <h1 id="1">Установка приложения</h1>
 
 <h2 id="1-1">Установка, первый запуск и обновление</h2>
-Для начала убедитесь, что у вас устройство на Android, особенно в случае телевизора. Если у вас **Samsung** или **LG** - то у вас **100% не Android** и вам надо пройти в Плагин для Samsung, LG и других "Смарт ТВ" - жать <a href="https://lazykpub.github.io/Lazykpub/pages/smarttv" target="_blank" rel="noopener noreferrer">**сюда**</a> или <a href="https://lazykpub.github.io/Lazykpub/pages/fork" target="_blank" rel="noopener noreferrer">**сюда**</a>!
+‼️**Для начала убедитесь, что у вас устройство на Android, особенно, в случае телевизора**. 
+Если у вас **Samsung** или **LG** - то у вас **100% не Android** и вам надо пройти в Плагин для Samsung, LG и других "Смарт ТВ" - жать <a href="https://lazykpub.github.io/Lazykpub/pages/smarttv" target="_blank" rel="noopener noreferrer">**сюда**</a> или <a href="https://lazykpub.github.io/Lazykpub/pages/fork" target="_blank" rel="noopener noreferrer">**сюда**</a>!
 
 ### Телефон (планшет) или приставка на **Android версии 4.✶**
-  - <span style="color: red;">**ВНИМАНИЕ!**</span> **ДАННАЯ ВЕРСИЯ БОЛЬШЕ НИГДЕ НЕ ПОДДЕРЖИВАЕТСЯ.
-    ПОВТОРЯЕМ: НИГДЕ!!!**.  
+  - <span style="color: red;">**ВНИМАНИЕ! ДАННАЯ ВЕРСИЯ БОЛЬШЕ НИГДЕ НЕ ПОДДЕРЖИВАЕТСЯ**.</span>  
+    **ПОВТОРЯЕМ: НИГДЕ!!!**.  
 
 ### Телефон (планшет) или приставка на **Android версии >= 5.0**
   - Открываем браузер и вводим <a href="https://kpdl.link/k.apk" target="_blank" rel="noopener noreferrer">**https://kpdl.link/k.apk**</a> - после скачивания устанавливаем.  
@@ -126,4 +127,4 @@ Downloader скачает APK, предложит дать разрешение 
 
 
 ---
-<p align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/android">Вернуться к списку Android</a></p>
+<p align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/android">Вернуться к списку инструкций для Android</a></p>
