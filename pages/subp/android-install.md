@@ -200,4 +200,4 @@ Downloader скачает APK, предложит дать разрешение 
 
 
 ---
-<p align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/android">Вернуться к списку инструкций для Android</a></p>
+<p align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/android">**Вернуться к списку инструкций для Android**</a></p>
