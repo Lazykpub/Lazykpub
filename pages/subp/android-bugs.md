@@ -83,7 +83,7 @@ layout: default
 - Вы смотрите в браузере, но не включили поддержку 4К для вашего активного браузера (да, по умолчанию она выключена).  
 **Включаем по следующей инструкции:**
 <div style="text-align: center;">
-  <img src="https://lazykpub.github.io/Lazykpub/assets/images/android_bugs_03.heic" alt="Установите приложение MicroIPTV из App Store." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/android_bugs_01.jpeg" alt="Включаем поддержку 4К на сайте." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 Включаем поддержку 4K в настройках устройства на сайте.
 </div><br>
 - Вы смотрите в приложении, но не включили поддержку 4К - включаем поддержку 4К в Настройках приложения (Настройки => Видеонастройки устройства => Поддержка 4к).  
