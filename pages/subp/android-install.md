@@ -67,7 +67,7 @@ Downloader скачает APK, предложит дать разрешение 
 Если у вас заблокирован сайт сервиса, то включаем VPN или идем по адресу - <a href="ttps://mos-gorsud.site" target="_blank" rel="noopener noreferrer">**https://mos-gorsud.site**</a> вводим имя и пароль от сервиса (если аккаунта нет, то регистрируемся), и после оплаты получаем персональное зеркало, с помощью которого можно будет заходить на сайт без VPN.
 Далее заходим на сайте в **Личный кабинет** - иконка аккаунта (на скриншоте сине-белый круг) справа вверху, в выпадающем меню пункт **Мои устройства** вводим код в поле **Активация устройства** и нажимаем кнопку **Добавить** (смотрите скриншот ниже).
 <div style="text-align: center;">
-  <img src="https://lazykpub.github.io/Lazykpub/assets/images/android_install_03.heic" alt="Вводим код в поле Активация устройства." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
+  <img src="https://lazykpub.github.io/Lazykpub/assets/images/android_install_03.jpeg" alt="Вводим код в поле Активация устройства." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
   Вводим код в поле Активация устройства.
 </div><br>
 ‼️ Вы можете активировать максимум 5 устройств. Для корректной активации и работы приложений неиспользуемые устройства желательно всегда удалять.
