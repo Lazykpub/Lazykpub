@@ -7,6 +7,7 @@ layout: default
 ## Выберите раздел, соответствующий вашему устройству
 <br>
 
+⟡ <a href="pages/kpservice">**Общие вопросы, связанные с использованием сервиса, настройки и рекомендации**</a>  
 ⟡ <a href="pages/appletv4">**Apple TV 4/4K (новые приставки с App Store)**</a>  
 ⟡ <a href="pages/appletv3">**Apple TV 2/3 (старые приставки без App Store)**</a>  
 ⟡ <a href="pages/ios">**iPhone / iPad**</a>  
