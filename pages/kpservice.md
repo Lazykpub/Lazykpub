@@ -29,7 +29,7 @@ layout: default
 ---
 
 <h1 id="2">Как оформить аккаунт Pro?</h1>
-Оформить аккаунт Pro всегда можно <a href="https://kino.pub/" target="_blank" rel="noopener noreferrer">**на сайте**</a>, пункт меню - **Купить / Продлить Pro**. 
+Оформить аккаунт Pro всегда можно <a href="https://kino.pub/donate" target="_blank" rel="noopener noreferrer">**на сайте**</a>, пункт меню - **Купить / Продлить Pro**. 
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/pay-kpservice.png" alt="Оформить аккаунт Pro." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';"><br>
   Оформить аккаунт Pro.
