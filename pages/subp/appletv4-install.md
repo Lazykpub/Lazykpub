@@ -185,5 +185,5 @@ atv4.dnskp.cc
 
 
 ---
-<p  align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/appletv4">Вернуться к списку инструкций Apple TV 4/4K</a>  
+<p  align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/appletv4">Вернуться к списку инструкций Apple TV 4/4K</a><br>
 <a href="https://lazykpub.github.io/Lazykpub">На Главную</a></p>
