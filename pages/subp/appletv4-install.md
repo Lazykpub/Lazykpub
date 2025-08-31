@@ -103,11 +103,11 @@ atv4.dnskp.cc
 
 <h2 id="2-4">Выберите вариант открытия</h2>
 
-Если выбрать «Да», то при открытии приложения с главного экрана AppleTV будет сразу открываться приложение Kinopub.
+Если выбрать **«Да»**, то при открытии приложения с главного экрана AppleTV будет сразу открываться приложение Kinopub.
 
-Если выбрать «Нет», то при открытии приложения будет открываться экран с выбором плэйлистов.
+Если выбрать **«Нет»**, то при открытии приложения будет открываться экран с выбором плэйлистов.
 
-Изменить настройку потом можно будет в Настройках приложения.
+Изменить настройку потом можно будет в **Настройках** приложения.
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/micro_install_06.png" alt="Нажмите «Да»." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 Нажмите «Да».
@@ -131,9 +131,8 @@ atv4.dnskp.cc
 
 Максимальное число допустимых устройств - 5. Перед активацией нового устройства - удалите все лишние активации!
 
-<div style="background-color: #E9EAFC; color: #000000; padding: 10px;">
-‼️ Код живет 5 минут. Поэтому, после получения кода - сразу вводите его на сайте. При этом, приложение MicroIPTV на AppleTV должно оставаться открытым!
-</div><br>
+> <div style="background-color: #E9EAFC; color: #000000; padding: 10px;">
+‼️ Код живет 5 минут. Поэтому, после получения кода - сразу вводите его на сайте. При этом, приложение MicroIPTV на AppleTV должно оставаться открытым!</div><br>
 
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/micro_install_08.jpeg" alt="Введите код активации." style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
