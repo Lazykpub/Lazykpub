@@ -43,5 +43,5 @@ layout: default
    Если 1000 часов прошло, вы не продлили режим разработчика, и установленные приложения были удалены, то вам нужно будет снова залогиниться на телевизоре в приложении **Developer mode**, и повторить установку.<br><br>
 
 ---
-<p align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/smarttv">Вернуться к списку Smart TV</a><br>
+<p align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/smarttv">Вернуться к списку инструкций для Smart TV</a><br>
 <a href="https://lazykpub.github.io/Lazykpub">На Главную</a></p>
