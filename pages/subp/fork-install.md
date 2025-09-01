@@ -11,6 +11,7 @@ layout: default
 
 
 ---
-<p align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/fork">Вернуться к списку Fork</a></p>
+<p align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/fork">Вернуться к списку инструкций для Fork</a><br>
+<a href="https://lazykpub.github.io/Lazykpub">На Главную</a></p>
 
 
