@@ -102,4 +102,5 @@ layout: default
 [Наверх ⬆️](#toc)<br>
 
 ---
-<p align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/android">Вернуться к списку инструкций для Android TV и Android</a></p>
+<p align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/android">Вернуться к списку инструкций для Android TV и Android</a><br>
+<a href="https://lazykpub.github.io/Lazykpub">На Главную</a></p>
