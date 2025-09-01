@@ -19,7 +19,7 @@ layout: default
 <p style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/pwa_win_vivaldi_3.jpeg" alt="Установка PWA приложения Windows из Vivaldi" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 </p>
-<div style="text-align: center;">Vivaldi (Через меню на вкладке)</div><br>
+<div style="text-align: center;">Vivaldi (через меню на вкладке)</div><br>
 <p style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/pwa_win_4.jpeg" alt="Установка PWA приложения Windows" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 </p>
@@ -33,4 +33,5 @@ layout: default
 <a href="https://tg.kprtfm.com" target="_blank" rel="noopener noreferrer">https://tg.kprtfm.com</a> <br><br>
 
 ---
-<p  align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/pwa">Вернуться к списку инструкций PWA</a></p>
+<p  align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/pwa">Вернуться к списку инструкций PWA</a><br>
+<a href="https://lazykpub.github.io/Lazykpub">На Главную</a></p>
