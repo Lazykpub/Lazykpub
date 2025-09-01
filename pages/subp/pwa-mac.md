@@ -5,10 +5,9 @@ layout: default
 
 # Установка PWA приложения на Mac / MacBook из браузера Safari
 <span style="color: red;">**‼️Важно: только для macOS Sonoma и новее!**</span><br><br>
-Используйте просмотр с помощью PWA приложения.  
 Перейдите по ссылке: 
 <a href="https://kpap.link" target="_blank" rel="noopener noreferrer">https://kpap.link</a>  
-Далее, в меню Safari выберите:  Файл => Добавить в Doc..  
+Далее, в меню **Safari** выберите:  Файл => Добавить в Doc..  
 <div style="text-align: center;">
   <img src="https://lazykpub.github.io/Lazykpub/assets/images/pwa_mac_1.jpeg" alt="Установка PWA приложения на Mac / MacBook" style="max-width: 100%; height: auto; cursor: pointer;" onclick="this.style.maxWidth = this.style.maxWidth === '100%' ? '100vw' : '100%';">
 </div>  
@@ -18,4 +17,5 @@ layout: default
 <a href="https://tg.kprtfm.com" target="_blank" rel="noopener noreferrer">https://tg.kprtfm.com</a> <br><br>
 
 ---
-<p  align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/pwa">Вернуться к списку инструкций PWA</a></p>
+<p  align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/pwa">Вернуться к списку инструкций PWA</a><br>
+<a href="https://lazykpub.github.io/Lazykpub">На Главную</a></p>
