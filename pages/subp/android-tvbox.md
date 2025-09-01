@@ -54,4 +54,5 @@ layout: default
 
 
 ---
-<p align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/android">Вернуться к списку инструкции для Android и Android TV</a></p>
+<p align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/android">Вернуться к списку инструкции для Android и Android TV</a><br>
+<a href="https://lazykpub.github.io/Lazykpub">На Главную</a></p>
