@@ -23,4 +23,5 @@ layout: default
   6. После перезагрузки телевизор отобразится в приложении. Зайдите в ВИДЖЕТЫ и вручную установите скачанный файл.
 
 ---
-<p align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/smarttv">Вернуться к списку Smart TV</a></p>
+<p align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/smarttv">Вернуться к списку Smart TV</a><br>
+<a href="https://lazykpub.github.io/Lazykpub">На Главную</a></p>
