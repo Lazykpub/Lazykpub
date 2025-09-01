@@ -38,4 +38,5 @@ layout: default
 
 
 ---
-<p align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/smarttv">Вернуться к списку Smart TV</a></p>
+<p align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/smarttv">Вернуться к списку инструкций для Smart TV</a><br>
+<a href="https://lazykpub.github.io/Lazykpub">На Главную</a></p>
