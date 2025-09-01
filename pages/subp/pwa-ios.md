@@ -5,11 +5,11 @@ layout: default
 
 # Установка PWA приложения на iPhone / iPad из браузера Safari
 <span style="color: red;">**‼️Важно: только для iOS / iPadOS 14 и новее!**</span><br>
-- Откройте Safari на iPhone или iPad.
+- Откройте **Safari** на iPhone или iPad.
 - Перейдите по ссылке:  <a href="https://kpap.link/" target="_blank" rel="noopener noreferrer">https://kpap.link/</a>
-- В нижнем меню нажмите на значок "Поделиться".
-- Выберите «На экран Домой».
-- Измените название или оставьте по умолчанию и нажмите в правом верхнем углу «Добавить».  
+- В нижнем меню нажмите на значок «**Поделиться**».
+- Выберите «**На экран Домой**».
+- Измените название или оставьте по умолчанию и нажмите в правом верхнем углу «**Добавить**».  
 Значок приложения появится на экране iPhone.
 
 <div style="text-align: center;">
@@ -22,4 +22,5 @@ layout: default
 
 
 ---
-<p  align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/pwa">Вернуться к списку инструкций PWA</a></p>
+<p  align="right"><a href="https://lazykpub.github.io/Lazykpub/pages/pwa">Вернуться к списку инструкций PWA</a><br>
+<a href="https://lazykpub.github.io/Lazykpub">На Главную</a></p>
