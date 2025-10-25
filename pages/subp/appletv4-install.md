@@ -68,10 +68,12 @@ layout: default
 ‼️ Не загружайте сразу несколько плейлистов, иначе даже рабочие URL для плейлистов могут не работать! Так же, перед переустановкой удаляйте все лишние активации устройств на сайте в ЛК/Мои устройства - их не должно быть больше 1 рабочего.</div><br>
 
 ```
-git.now/atv4kptos
-lua.sh/atv4kptos
-fig.now/atv4kptosj
-cal.now/atv4kptoss
+nuo.sh/atv4kptos
+nuo.sh/atv4kptosj
+nuo.sh/atv4kptoss
+nuo.sh/atv4kpq
+nuo.sh/atv4kpqj
+nuo.sh/atv4kpqs
 dub.sh/atv4kptos
 git.new/atv4kptos
 dub.sh/atv4kptosj
