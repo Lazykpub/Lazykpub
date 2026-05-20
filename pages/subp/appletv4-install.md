@@ -76,14 +76,7 @@ nuo.sh/atv4kptoss
 nuo.sh/atv4kpq
 nuo.sh/atv4kpqj
 nuo.sh/atv4kpqs
-dub.sh/atv4kptos
-git.new/atv4kptos
-dub.sh/atv4kptosj
-dub.sh/atv4kptoss
-dub.sh/atv4kp
-dub.sh/atvkpj
 urlr.me/!atv4kp
-dub.sh/atvkps
 atv4.dnskp.cc
 ```
 <div style="text-align: center;">
