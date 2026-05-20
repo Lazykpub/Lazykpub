@@ -182,9 +182,9 @@ layout: default
 RefreshToken status 0.
 </div><br>
 
-<div style="background-color: #E9EAFC; color: #000000; padding: 10px;"> 
+<h2 id=«3-1»>✅Рекомендации по решению проблем</h2>  
 
-<h2 id=«3-1»>✅Рекомендации по решению проблем</h2> 
+<div style="background-color: #E9EAFC; color: #000000; padding: 10px;"> 
 
 ‼️ Если у вас возникли любые другие ошибки при открытии приложения, так же, выполняйте рекомендации ниже!</div><br>
 
