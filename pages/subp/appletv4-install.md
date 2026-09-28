@@ -84,6 +84,8 @@ atv4.dnskp.cc
 Введите ссылку на плейлист.
 </div><br>
 
+<div style="background-color: #E9EAFC; color: #000000; padding: 10px;">‼️ Если после того, как попробовали все варианты URL для плейлиста и приложение все равно не открылось или открылось частично (не все вкладки в приложении  прогружаются) используйте  🔗 <a href="https://lazykpub.github.io/Lazykpub/pages/subp/appletv4-bugs">эту инструкцию</a>.</div><br>
+
 [Наверх ⬆️](#toc)<br>
 
 ---
